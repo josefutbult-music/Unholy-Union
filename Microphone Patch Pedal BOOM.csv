@@ -1,0 +1,61 @@
+Part,Value,Device,Package,Description,LINK,MFR,MFR-NO,MFR-NR,MPN,SPICEPREFIX,SUPPLIER
+R14,100,R-EU_R0603,R0603,"RESISTOR, European symbol",,,,,,R,
+R15,100,R-EU_R0603,R0603,"RESISTOR, European symbol",,,,,,R,
+R26,1 k,R-EU_R0603,R0603,"RESISTOR, European symbol",,,,,,R,
+L1,1 mH,CBC3225T102KR,R3225,CBC3225T102KR Inductor,https://eu.mouser.com/ProductDetail/Taiyo-Yuden/CBC3225T102KR?qs=sGAEpiMZZMv126LJFLh8y20aaI5UI0LiYLUtcSjD9tU%3D,,,,CBC3225T102KR,,Mouser
+GAIN,10 k,RK09L1140,RK09L1140,RK09L1140,,,,,,,
+R10,10 k,R-EU_R0603,R0603,"RESISTOR, European symbol",,,,,,R,
+R11,10 k,R-EU_R0603,R0603,"RESISTOR, European symbol",,,,,,R,
+R12,10 k,R-EU_R0603,R0603,"RESISTOR, European symbol",,,,,,R,
+R13,10 k,R-EU_R0603,R0603,"RESISTOR, European symbol",,,,,,R,
+R19,10 k,R-EU_R0603,R0603,"RESISTOR, European symbol",,,,,,R,
+R20,10 k,R-EU_R0603,R0603,"RESISTOR, European symbol",,,,,,R,
+R21,10 k,R-EU_R0603,R0603,"RESISTOR, European symbol",,,,,,R,
+R22,10 k,R-EU_R0603,R0603,"RESISTOR, European symbol",,,,,,R,
+R25,10 k,R-EU_R0603,R0603,"RESISTOR, European symbol",,,,,,R,
+R5,10 k,R-EU_R0603,R0603,"RESISTOR, European symbol",,,,,,R,
+R6,10 k,R-EU_R0603,R0603,"RESISTOR, European symbol",,,,,,R,
+R7,10 k,R-EU_R0603,R0603,"RESISTOR, European symbol",,,,,,R,
+R8,10 k,R-EU_R0603,R0603,"RESISTOR, European symbol",,,,,,R,
+R9,10 k,R-EU_R0603,R0603,"RESISTOR, European symbol",,,,,,R,
+VOLUME,10 k,RK09L1140,RK09L1140,RK09L1140,,,,,,,
+R16,100 k,R-EU_R0603,R0603,"RESISTOR, European symbol",,,,,,R,
+R17,100 k,R-EU_R0603,R0603,"RESISTOR, European symbol",,,,,,R,
+R23,100 k,R-EU_R0603,R0603,"RESISTOR, European symbol",,,,,,R,
+R24,100 k,R-EU_R0603,R0603,"RESISTOR, European symbol",,,,,,R,
+R29,100 k,R-EU_R0603,R0603,"RESISTOR, European symbol",,,,,,R,
+R30,100 k,R-EU_R0603,R0603,"RESISTOR, European symbol",,,,,,R,
+C10,100 n,C-EUC0603,C0603,"CAPACITOR, European symbol",,,,,,C,
+C11,100 n,C-EUC0603,C0603,"CAPACITOR, European symbol",,,,,,C,
+C1,"10u, 16V",C-PR-SMD-SV-A,SV-A,POLARIZED ELECTROLYTIC/TANTALUM,https://www.mouser.se/ProductDetail/Nichicon/UWX1C100MCL2GB?qs=Wj%2FVkw3K%252BMB0r5CJ0oBSFw%3D%3D,Nichicon,,UWX1C100MCL2GB,,,Mouser
+C12,"10u, 16V",C-PR-SMD-SV-A,SV-A,POLARIZED ELECTROLYTIC/TANTALUM,https://www.mouser.se/ProductDetail/Nichicon/UWX1C100MCL2GB?qs=Wj%2FVkw3K%252BMB0r5CJ0oBSFw%3D%3D,Nichicon,,UWX1C100MCL2GB,,,Mouser
+C15,"10u, 16V",C-PR-SMD-SV-A,SV-A,POLARIZED ELECTROLYTIC/TANTALUM,https://www.mouser.se/ProductDetail/Nichicon/UWX1C100MCL2GB?qs=Wj%2FVkw3K%252BMB0r5CJ0oBSFw%3D%3D,Nichicon,,UWX1C100MCL2GB,,,Mouser
+C2,"10u, 16V",C-PR-SMD-SV-A,SV-A,POLARIZED ELECTROLYTIC/TANTALUM,https://www.mouser.se/ProductDetail/Nichicon/UWX1C100MCL2GB?qs=Wj%2FVkw3K%252BMB0r5CJ0oBSFw%3D%3D,Nichicon,,UWX1C100MCL2GB,,,Mouser
+C3,"10u, 16V",C-PR-SMD-SV-A,SV-A,POLARIZED ELECTROLYTIC/TANTALUM,https://www.mouser.se/ProductDetail/Nichicon/UWX1C100MCL2GB?qs=Wj%2FVkw3K%252BMB0r5CJ0oBSFw%3D%3D,Nichicon,,UWX1C100MCL2GB,,,Mouser
+C5,"10u, 16V",C-PR-SMD-SV-A,SV-A,POLARIZED ELECTROLYTIC/TANTALUM,https://www.mouser.se/ProductDetail/Nichicon/UWX1C100MCL2GB?qs=Wj%2FVkw3K%252BMB0r5CJ0oBSFw%3D%3D,Nichicon,,UWX1C100MCL2GB,,,Mouser
+C8,"10u, 16V",C-PR-SMD-SV-A,SV-A,POLARIZED ELECTROLYTIC/TANTALUM,https://www.mouser.se/ProductDetail/Nichicon/UWX1C100MCL2GB?qs=Wj%2FVkw3K%252BMB0r5CJ0oBSFw%3D%3D,Nichicon,,UWX1C100MCL2GB,,,Mouser
+C9,"10u, 16V",C-PR-SMD-SV-A,SV-A,POLARIZED ELECTROLYTIC/TANTALUM,https://www.mouser.se/ProductDetail/Nichicon/UWX1C100MCL2GB?qs=Wj%2FVkw3K%252BMB0r5CJ0oBSFw%3D%3D,Nichicon,,UWX1C100MCL2GB,,,Mouser
+C4,18 p,C-EUC0603,C0603,"CAPACITOR, European symbol",,,,,,C,
+C17,"2.2 u, 63 V",C-PR-SMD-SV-B,SV-B,POLARIZED ELECTROLYTIC/TANTALUM,https://eu.mouser.com/ProductDetail/United-Chemi-Con/EMVA630ADA2R2MD55G?qs=8LsMxZbc%2FVeR1MWNLLxxJw%3D%3D,,,,EMVA630ADA2R2MD55G,,Mouser
+C18,"2.2 u, 63 V",C-PR-SMD-SV-B,SV-B,POLARIZED ELECTROLYTIC/TANTALUM,https://eu.mouser.com/ProductDetail/United-Chemi-Con/EMVA630ADA2R2MD55G?qs=8LsMxZbc%2FVeR1MWNLLxxJw%3D%3D,,,,EMVA630ADA2R2MD55G,,Mouser
+C13,"33u, 63V",C-PR-SMD-SV-E/F,SV-E/F,POLARIZED ELECTROLYTIC/TANTALUM,https://www.mouser.se/ProductDetail/Panasonic/EEE-FK1J330P?qs=qE6bgDGEOCvlingENS6G1A%3D%3D,Panasonic,,EEE-FK1J330P,,,Mouser
+C14,"33u, 63V",C-PR-SMD-SV-E/F,SV-E/F,POLARIZED ELECTROLYTIC/TANTALUM,https://www.mouser.se/ProductDetail/Panasonic/EEE-FK1J330P?qs=qE6bgDGEOCvlingENS6G1A%3D%3D,Panasonic,,EEE-FK1J330P,,,Mouser
+C6,"33u, 63V",C-PR-SMD-SV-E/F,SV-E/F,POLARIZED ELECTROLYTIC/TANTALUM,https://www.mouser.se/ProductDetail/Panasonic/EEE-FK1J330P?qs=qE6bgDGEOCvlingENS6G1A%3D%3D,Panasonic,,EEE-FK1J330P,,,Mouser
+C7,"33u, 63V",C-PR-SMD-SV-E/F,SV-E/F,POLARIZED ELECTROLYTIC/TANTALUM,https://www.mouser.se/ProductDetail/Panasonic/EEE-FK1J330P?qs=qE6bgDGEOCvlingENS6G1A%3D%3D,Panasonic,,EEE-FK1J330P,,,Mouser
+C16,"360 u, 63 V",CPOL-EU-PANASONIC_FK_V_H,PANASONIC_FK_V_H,"Panasonic Aluminium Electrolytic Capacitor Series FK, Type V, Size H [SMT]",https://eu.mouser.com/ProductDetail/Nichicon/UCM1J361MNJ1MS?qs=sGAEpiMZZMsh%252B1woXyUXj454OU6nZKUJcaVrXrku8lc%3D,,,,UCM1J361MNJ1MS,,Mouser
+R1,4.7 k,R-EU_R0603,R0603,"RESISTOR, European symbol",,,,,,R,
+R2,4.7 k,R-EU_R0603,R0603,"RESISTOR, European symbol",,,,,,R,
+R3,6.8 k,R-EU_R0603,R0603,"RESISTOR, European symbol",,,,,,R,
+R4,6.8 k,R-EU_R0603,R0603,"RESISTOR, European symbol",,,,,,R,
+BYPASS,BUTTON,BUTTON,3-HOLES,,,,,,,,
+SWITCH,BUTTON,BUTTON,3-HOLES,,,,,,,,
+PWR_IN,PWR,PWR,PWR,,,,,,,,
+PWR_OUT,PWR,PWR,PWR,,,,,,,,
+U1,TL074IDT,TL074IDT,SOIC127P600X175-14N,Low noise JFET quad operational amplifier,https://www.mouser.se/ProductDetail/STMicroelectronics/TL074IDT?qs=xiMLMHqF5JUaM%252BCWVyDQFA%3D%3D,STMicroelectronics,,TL074IDT,,,Mouser
+U2,TMUX1134,TMUX1134,SOP65P640X120-20N,TMUX1134,https://www.mouser.se/ProductDetail/Texas-Instruments/TMUX1134PWR?qs=%252B6g0mu59x7L8VGQncKsYmQ%3D%3D,,,,TMUX1134PWR ,,Mouser
+RETURN,UNBALANCED_INPUT_JACK,UNBALANCED_INPUT_JACK,BALANCED_INPUT_JACK,,,,,,,,
+SEND,UNBALANCED_INPUT_JACK,UNBALANCED_INPUT_JACK,BALANCED_INPUT_JACK,,,,,,,,
+U$1,UTBULT_DESIGN4,UTBULT_DESIGN4,UD_4,,,,,,,,
+U3,V7809W-500R,V7809W-500R,CONV_V7809W-500R,V7809W-500R Power regulator,https://eu.mouser.com/ProductDetail/CUI-Inc/V7809W-500R?qs=WyjlAZoYn50ZQqVm%2FTcinw%3D%3D,,,,V7809W-500R,,Mouser
+IN,XLR_FEMALE,XLR_FEMALE,NC3FAH2-S,Female XLR Jack,https://www.mouser.se/ProductDetail/Neutrik/NC3FAH2-S?qs=YwPsRIUVAOcGvYuJnFEptA%3D%3D,,NC3FAH2-S,,,,Neutrik
+OUT,XLR_MALE,XLR_MALE,NC3MAH-S,Male XLR Jack,https://www.mouser.se/ProductDetail/Neutrik/NC3MAH-S?qs=YwPsRIUVAOdbWFQwvVs60Q==,,,NC3MAH-S,,,Neutrik
